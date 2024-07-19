@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Anupam Bhatt currently pursuing my B.Tech in Computer Science and Engineering from GITS Udaipur. I am a software developer intern at Sanskrut Corporation. I love exploring new technolgies, involving in communities and building real world solutions using technology.
+I am Anupam Bhatt a software developer who loves exploring new technologies, involving in communities, and building real-world solutions using technology.
 
 **Technologies:**
 
